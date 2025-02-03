@@ -1,0 +1,296 @@
+C:\Users\meden\Desktop\proje\Sinemasyon\Sinemasyon\bin\Debug\Sinemasyon.exe.config
+C:\Users\meden\Desktop\proje\Sinemasyon\Sinemasyon\bin\Debug\Sinemasyon.exe
+C:\Users\meden\Desktop\proje\Sinemasyon\Sinemasyon\bin\Debug\Sinemasyon.pdb
+C:\Users\meden\Desktop\proje\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.AssemblyReference.cache
+C:\Users\meden\Desktop\proje\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmAcilis.resources
+C:\Users\meden\Desktop\proje\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.Properties.Resources.resources
+C:\Users\meden\Desktop\proje\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.GenerateResource.cache
+C:\Users\meden\Desktop\proje\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.CoreCompileInputs.cache
+C:\Users\meden\Desktop\proje\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.exe
+C:\Users\meden\Desktop\proje\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.pdb
+C:\Users\90537\Desktop\proje\Sinemasyon\Sinemasyon\bin\Debug\Sinemasyon.exe.config
+C:\Users\90537\Desktop\proje\Sinemasyon\Sinemasyon\bin\Debug\Sinemasyon.exe
+C:\Users\90537\Desktop\proje\Sinemasyon\Sinemasyon\bin\Debug\Sinemasyon.pdb
+C:\Users\90537\Desktop\proje\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.AssemblyReference.cache
+C:\Users\90537\Desktop\proje\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmAcilis.resources
+C:\Users\90537\Desktop\proje\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.Properties.Resources.resources
+C:\Users\90537\Desktop\proje\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.GenerateResource.cache
+C:\Users\90537\Desktop\proje\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.CoreCompileInputs.cache
+C:\Users\90537\Desktop\proje\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.exe
+C:\Users\90537\Desktop\proje\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.pdb
+C:\Users\90537\Desktop\proje\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmAnasayfa.resources
+C:\Users\Huseyin\Desktop\proje_v2\Sinemasyon\Sinemasyon\bin\Debug\Sinemasyon.exe.config
+C:\Users\Huseyin\Desktop\proje_v2\Sinemasyon\Sinemasyon\bin\Debug\Sinemasyon.exe
+C:\Users\Huseyin\Desktop\proje_v2\Sinemasyon\Sinemasyon\bin\Debug\Sinemasyon.pdb
+C:\Users\Huseyin\Desktop\proje_v2\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.AssemblyReference.cache
+C:\Users\Huseyin\Desktop\proje_v2\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmAnasayfa.resources
+C:\Users\Huseyin\Desktop\proje_v2\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmAcilis.resources
+C:\Users\Huseyin\Desktop\proje_v2\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.Properties.Resources.resources
+C:\Users\Huseyin\Desktop\proje_v2\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.GenerateResource.cache
+C:\Users\Huseyin\Desktop\proje_v2\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\Desktop\proje_v2\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.exe
+C:\Users\Huseyin\Desktop\proje_v2\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.pdb
+C:\Users\huseyincankaraslan\Desktop\proje_v2\Sinemasyon\Sinemasyon\bin\Debug\Sinemasyon.exe.config
+C:\Users\huseyincankaraslan\Desktop\proje_v2\Sinemasyon\Sinemasyon\bin\Debug\Sinemasyon.exe
+C:\Users\huseyincankaraslan\Desktop\proje_v2\Sinemasyon\Sinemasyon\bin\Debug\Sinemasyon.pdb
+C:\Users\huseyincankaraslan\Desktop\proje_v2\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.AssemblyReference.cache
+C:\Users\huseyincankaraslan\Desktop\proje_v2\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmAnasayfa.resources
+C:\Users\huseyincankaraslan\Desktop\proje_v2\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmAcilis.resources
+C:\Users\huseyincankaraslan\Desktop\proje_v2\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.Properties.Resources.resources
+C:\Users\huseyincankaraslan\Desktop\proje_v2\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.GenerateResource.cache
+C:\Users\huseyincankaraslan\Desktop\proje_v2\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.CoreCompileInputs.cache
+C:\Users\huseyincankaraslan\Desktop\proje_v2\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.exe
+C:\Users\huseyincankaraslan\Desktop\proje_v2\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.pdb
+C:\Users\meden\Desktop\proje_v2\proje_v2\Sinemasyon\Sinemasyon\bin\Debug\Sinemasyon.exe.config
+C:\Users\meden\Desktop\proje_v2\proje_v2\Sinemasyon\Sinemasyon\bin\Debug\Sinemasyon.exe
+C:\Users\meden\Desktop\proje_v2\proje_v2\Sinemasyon\Sinemasyon\bin\Debug\Sinemasyon.pdb
+C:\Users\meden\Desktop\proje_v2\proje_v2\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.AssemblyReference.cache
+C:\Users\meden\Desktop\proje_v2\proje_v2\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmAnasayfa.resources
+C:\Users\meden\Desktop\proje_v2\proje_v2\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmAcilis.resources
+C:\Users\meden\Desktop\proje_v2\proje_v2\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.Properties.Resources.resources
+C:\Users\meden\Desktop\proje_v2\proje_v2\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.GenerateResource.cache
+C:\Users\meden\Desktop\proje_v2\proje_v2\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.CoreCompileInputs.cache
+C:\Users\meden\Desktop\proje_v2\proje_v2\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.exe
+C:\Users\meden\Desktop\proje_v2\proje_v2\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.pdb
+C:\Users\Huseyin\Desktop\proje_v3\proje_v2\Sinemasyon\Sinemasyon\bin\Debug\Sinemasyon.exe.config
+C:\Users\Huseyin\Desktop\proje_v3\proje_v2\Sinemasyon\Sinemasyon\bin\Debug\Sinemasyon.exe
+C:\Users\Huseyin\Desktop\proje_v3\proje_v2\Sinemasyon\Sinemasyon\bin\Debug\Sinemasyon.pdb
+C:\Users\Huseyin\Desktop\proje_v3\proje_v2\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.AssemblyReference.cache
+C:\Users\Huseyin\Desktop\proje_v3\proje_v2\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmAnasayfa.resources
+C:\Users\Huseyin\Desktop\proje_v3\proje_v2\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmAcilis.resources
+C:\Users\Huseyin\Desktop\proje_v3\proje_v2\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.Properties.Resources.resources
+C:\Users\Huseyin\Desktop\proje_v3\proje_v2\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.GenerateResource.cache
+C:\Users\Huseyin\Desktop\proje_v3\proje_v2\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\Desktop\proje_v3\proje_v2\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.exe
+C:\Users\Huseyin\Desktop\proje_v3\proje_v2\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.pdb
+C:\Users\huseyincankaraslan\Desktop\proje_v3\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.AssemblyReference.cache
+C:\Users\huseyincankaraslan\Desktop\proje_v3\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.exe
+C:\Users\huseyincankaraslan\Desktop\proje_v3\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.pdb
+C:\Users\huseyincankaraslan\Desktop\sinemasyonv3\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.AssemblyReference.cache
+C:\Users\huseyincankaraslan\Desktop\sinemasyonv3\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.exe
+C:\Users\huseyincankaraslan\Desktop\sinemasyonv3\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.pdb
+C:\Users\huseyincankaraslan\Desktop\sinemasyonv3\Sinemasyon\Sinemasyon\bin\Debug\Sinemasyon.exe.config
+C:\Users\huseyincankaraslan\Desktop\sinemasyonv3\Sinemasyon\Sinemasyon\bin\Debug\Sinemasyon.exe
+C:\Users\huseyincankaraslan\Desktop\sinemasyonv3\Sinemasyon\Sinemasyon\bin\Debug\Sinemasyon.pdb
+C:\Users\huseyincankaraslan\Desktop\sinemasyonv3\Sinemasyon\Sinemasyon\bin\Debug\ReaLTaiizor.dll
+C:\Users\huseyincankaraslan\Desktop\sinemasyonv3\Sinemasyon\Sinemasyon\bin\Debug\ReaLTaiizor.xml
+C:\Users\huseyincankaraslan\Desktop\sinemasyonv3\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmAcilis.resources
+C:\Users\huseyincankaraslan\Desktop\sinemasyonv3\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmAnasayfa.resources
+C:\Users\huseyincankaraslan\Desktop\sinemasyonv3\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.Properties.Resources.resources
+C:\Users\huseyincankaraslan\Desktop\sinemasyonv3\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.GenerateResource.cache
+C:\Users\huseyincankaraslan\Desktop\sinemasyonv3\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.CoreCompileInputs.cache
+C:\Users\huseyincankaraslan\Desktop\sinemasyonv3\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.Up2Date
+C:\Users\Huseyin\Desktop\proje_v4\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.AssemblyReference.cache
+C:\Users\Huseyin\Desktop\proje_v4\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmAcilis.resources
+C:\Users\Huseyin\Desktop\proje_v4\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmAnasayfa.resources
+C:\Users\Huseyin\Desktop\proje_v4\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.Properties.Resources.resources
+C:\Users\Huseyin\Desktop\proje_v4\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.GenerateResource.cache
+C:\Users\Huseyin\Desktop\proje_v4\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\Desktop\proje_v4\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.exe
+C:\Users\Huseyin\Desktop\proje_v4\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.pdb
+C:\Users\Huseyin\Desktop\proje_v4\Sinemasyon\Sinemasyon\bin\Debug\Sinemasyon.exe.config
+C:\Users\Huseyin\Desktop\proje_v4\Sinemasyon\Sinemasyon\bin\Debug\Sinemasyon.exe
+C:\Users\Huseyin\Desktop\proje_v4\Sinemasyon\Sinemasyon\bin\Debug\Sinemasyon.pdb
+C:\Users\Huseyin\Desktop\proje_v4\Sinemasyon\Sinemasyon\bin\Debug\ReaLTaiizor.dll
+C:\Users\Huseyin\Desktop\proje_v4\Sinemasyon\Sinemasyon\bin\Debug\ReaLTaiizor.xml
+C:\Users\Huseyin\Desktop\proje_v4\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.Up2Date
+C:\Users\Huseyin\Desktop\proje_v4\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmFilmEkle.resources
+C:\Users\Huseyin\Desktop\proje_v4\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmBiletKes.resources
+C:\Users\meden\Desktop\proje_v4\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.AssemblyReference.cache
+C:\Users\meden\Desktop\proje_v4\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.exe
+C:\Users\meden\Desktop\proje_v4\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.pdb
+C:\Users\meden\Desktop\proje_v4\Sinemasyon\Sinemasyon\bin\Debug\Sinemasyon.exe.config
+C:\Users\meden\Desktop\proje_v4\Sinemasyon\Sinemasyon\bin\Debug\Sinemasyon.exe
+C:\Users\meden\Desktop\proje_v4\Sinemasyon\Sinemasyon\bin\Debug\Sinemasyon.pdb
+C:\Users\meden\Desktop\proje_v4\Sinemasyon\Sinemasyon\bin\Debug\ReaLTaiizor.dll
+C:\Users\meden\Desktop\proje_v4\Sinemasyon\Sinemasyon\bin\Debug\ReaLTaiizor.xml
+C:\Users\meden\Desktop\proje_v4\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmAcilis.resources
+C:\Users\meden\Desktop\proje_v4\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmAnasayfa.resources
+C:\Users\meden\Desktop\proje_v4\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmBiletKes.resources
+C:\Users\meden\Desktop\proje_v4\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmFilmEkle.resources
+C:\Users\meden\Desktop\proje_v4\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.Properties.Resources.resources
+C:\Users\meden\Desktop\proje_v4\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.GenerateResource.cache
+C:\Users\meden\Desktop\proje_v4\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.CoreCompileInputs.cache
+C:\Users\meden\Desktop\proje_v4\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.Up2Date
+C:\Users\meden\Desktop\proje_v4\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmYonetmenKayitt.resources
+C:\Users\meden\Desktop\proje_v4\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmYonetmenListesi.resources
+C:\Users\meden\Desktop\proje_v4\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.YonetmenListesi.resources
+C:\Users\meden\Desktop\proje_v4\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmOyuncuKayit.resources
+C:\Users\meden\Desktop\proje_v4\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmOyuncuListesi.resources
+C:\Users\meden\Desktop\proje_v4\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.OyuncuListesi.resources
+C:\Users\meden\Desktop\proje_v4\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmSalonKayit.resources
+C:\Users\meden\Desktop\proje_v4\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.SalonListesi.resources
+C:\Users\meden\Desktop\proje_v4\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.OyuncuListeAraci.resources
+C:\Users\meden\Desktop\proje_v4\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.YönetmenListeAraci.resources
+C:\Users\meden\Desktop\proje_v4\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmFilmListeleme.resources
+C:\Users\meden\Desktop\proje_v4\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FilmListesi.resources
+C:\Users\meden\Desktop\proje_v4\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmFilmDetay.resources
+C:\Users\meden\Desktop\proje_v4\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmBiletOlustur.resources
+C:\Users\meden\Desktop\son\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.AssemblyReference.cache
+C:\Users\meden\Desktop\son\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.exe
+C:\Users\meden\Desktop\son\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.pdb
+C:\Users\meden\Desktop\son\proje_v5\Sinemasyon\Sinemasyon\bin\Debug\Sinemasyon.exe.config
+C:\Users\meden\Desktop\son\proje_v5\Sinemasyon\Sinemasyon\bin\Debug\Sinemasyon.exe
+C:\Users\meden\Desktop\son\proje_v5\Sinemasyon\Sinemasyon\bin\Debug\Sinemasyon.pdb
+C:\Users\meden\Desktop\son\proje_v5\Sinemasyon\Sinemasyon\bin\Debug\ReaLTaiizor.dll
+C:\Users\meden\Desktop\son\proje_v5\Sinemasyon\Sinemasyon\bin\Debug\ReaLTaiizor.xml
+C:\Users\meden\Desktop\son\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FilmListesi.resources
+C:\Users\meden\Desktop\son\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmAcilis.resources
+C:\Users\meden\Desktop\son\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmAnasayfa.resources
+C:\Users\meden\Desktop\son\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmBiletKes.resources
+C:\Users\meden\Desktop\son\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmBiletOlustur.resources
+C:\Users\meden\Desktop\son\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmFilmDetay.resources
+C:\Users\meden\Desktop\son\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmFilmEkle.resources
+C:\Users\meden\Desktop\son\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmFilmListeleme.resources
+C:\Users\meden\Desktop\son\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmOyuncuKayit.resources
+C:\Users\meden\Desktop\son\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmOyuncuListesi.resources
+C:\Users\meden\Desktop\son\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmSalonKayit.resources
+C:\Users\meden\Desktop\son\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmYonetmenKayitt.resources
+C:\Users\meden\Desktop\son\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmYonetmenListesi.resources
+C:\Users\meden\Desktop\son\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.OyuncuListeAraci.resources
+C:\Users\meden\Desktop\son\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.OyuncuListesi.resources
+C:\Users\meden\Desktop\son\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.Properties.Resources.resources
+C:\Users\meden\Desktop\son\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.SalonListesi.resources
+C:\Users\meden\Desktop\son\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.YonetmenListesi.resources
+C:\Users\meden\Desktop\son\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.YönetmenListeAraci.resources
+C:\Users\meden\Desktop\son\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.GenerateResource.cache
+C:\Users\meden\Desktop\son\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.CoreCompileInputs.cache
+C:\Users\meden\Desktop\son\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.Up2Date
+C:\Users\meden\Desktop\sonn\proje_v5\Sinemasyon\Sinemasyon\bin\Debug\Sinemasyon.exe.config
+C:\Users\meden\Desktop\sonn\proje_v5\Sinemasyon\Sinemasyon\bin\Debug\Sinemasyon.exe
+C:\Users\meden\Desktop\sonn\proje_v5\Sinemasyon\Sinemasyon\bin\Debug\Sinemasyon.pdb
+C:\Users\meden\Desktop\sonn\proje_v5\Sinemasyon\Sinemasyon\bin\Debug\ReaLTaiizor.dll
+C:\Users\meden\Desktop\sonn\proje_v5\Sinemasyon\Sinemasyon\bin\Debug\ReaLTaiizor.xml
+C:\Users\meden\Desktop\sonn\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.AssemblyReference.cache
+C:\Users\meden\Desktop\sonn\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FilmListesi.resources
+C:\Users\meden\Desktop\sonn\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmAcilis.resources
+C:\Users\meden\Desktop\sonn\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmAnasayfa.resources
+C:\Users\meden\Desktop\sonn\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmBiletKes.resources
+C:\Users\meden\Desktop\sonn\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmBiletOlustur.resources
+C:\Users\meden\Desktop\sonn\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmBiletSorgulama.resources
+C:\Users\meden\Desktop\sonn\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmFilmDetay.resources
+C:\Users\meden\Desktop\sonn\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmFilmEkle.resources
+C:\Users\meden\Desktop\sonn\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmFilmListeleme.resources
+C:\Users\meden\Desktop\sonn\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmOyuncuKayit.resources
+C:\Users\meden\Desktop\sonn\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmOyuncuListesi.resources
+C:\Users\meden\Desktop\sonn\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmSalonKayit.resources
+C:\Users\meden\Desktop\sonn\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmYonetmenKayitt.resources
+C:\Users\meden\Desktop\sonn\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmYonetmenListesi.resources
+C:\Users\meden\Desktop\sonn\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.OyuncuListeAraci.resources
+C:\Users\meden\Desktop\sonn\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.OyuncuListesi.resources
+C:\Users\meden\Desktop\sonn\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.Properties.Resources.resources
+C:\Users\meden\Desktop\sonn\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.SalonListesi.resources
+C:\Users\meden\Desktop\sonn\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.YonetmenListesi.resources
+C:\Users\meden\Desktop\sonn\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.YönetmenListeAraci.resources
+C:\Users\meden\Desktop\sonn\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.GenerateResource.cache
+C:\Users\meden\Desktop\sonn\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.CoreCompileInputs.cache
+C:\Users\meden\Desktop\sonn\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.Up2Date
+C:\Users\meden\Desktop\sonn\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.exe
+C:\Users\meden\Desktop\sonn\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.pdb
+C:\Users\meden\Desktop\sonn\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmBiletDetay.resources
+C:\Users\meden\Desktop\sonn\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmSalonAtama.resources
+C:\Users\90537\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.AssemblyReference.cache
+C:\Users\90537\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.exe
+C:\Users\90537\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.pdb
+C:\Users\90537\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\bin\Debug\Sinemasyon.exe.config
+C:\Users\90537\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\bin\Debug\Sinemasyon.exe
+C:\Users\90537\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\bin\Debug\Sinemasyon.pdb
+C:\Users\90537\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\bin\Debug\ReaLTaiizor.dll
+C:\Users\90537\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\bin\Debug\ReaLTaiizor.xml
+C:\Users\90537\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FilmListesi.resources
+C:\Users\90537\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmAcilis.resources
+C:\Users\90537\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmAnasayfa.resources
+C:\Users\90537\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmBiletDetay.resources
+C:\Users\90537\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmBiletKes.resources
+C:\Users\90537\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmBiletOlustur.resources
+C:\Users\90537\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmBiletSorgulama.resources
+C:\Users\90537\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmFilmDetay.resources
+C:\Users\90537\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmFilmEkle.resources
+C:\Users\90537\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmFilmListeleme.resources
+C:\Users\90537\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmOyuncuKayit.resources
+C:\Users\90537\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmOyuncuListesi.resources
+C:\Users\90537\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmSalonAtama.resources
+C:\Users\90537\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmSalonKayit.resources
+C:\Users\90537\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmYonetmenKayitt.resources
+C:\Users\90537\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmYonetmenListesi.resources
+C:\Users\90537\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.OyuncuListeAraci.resources
+C:\Users\90537\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.OyuncuListesi.resources
+C:\Users\90537\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.Properties.Resources.resources
+C:\Users\90537\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.SalonListesi.resources
+C:\Users\90537\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.YonetmenListesi.resources
+C:\Users\90537\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.YönetmenListeAraci.resources
+C:\Users\90537\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.GenerateResource.cache
+C:\Users\90537\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.CoreCompileInputs.cache
+C:\Users\90537\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.CopyComplete
+C:\Users\90537\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmDogrulama.resources
+C:\Users\90537\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmPersonelEkle.resources
+C:\Users\meden\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.AssemblyReference.cache
+C:\Users\meden\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.exe
+C:\Users\meden\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.pdb
+C:\Users\meden\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\bin\Debug\Sinemasyon.exe.config
+C:\Users\meden\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\bin\Debug\Sinemasyon.exe
+C:\Users\meden\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\bin\Debug\Sinemasyon.pdb
+C:\Users\meden\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\bin\Debug\ReaLTaiizor.dll
+C:\Users\meden\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\bin\Debug\ReaLTaiizor.xml
+C:\Users\meden\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FilmListesi.resources
+C:\Users\meden\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmAcilis.resources
+C:\Users\meden\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmAnasayfa.resources
+C:\Users\meden\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmBiletDetay.resources
+C:\Users\meden\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmBiletKes.resources
+C:\Users\meden\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmBiletOlustur.resources
+C:\Users\meden\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmBiletSorgulama.resources
+C:\Users\meden\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmDogrulama.resources
+C:\Users\meden\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmFilmDetay.resources
+C:\Users\meden\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmFilmEkle.resources
+C:\Users\meden\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmFilmListeleme.resources
+C:\Users\meden\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmOyuncuKayit.resources
+C:\Users\meden\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmOyuncuListesi.resources
+C:\Users\meden\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmPersonelEkle.resources
+C:\Users\meden\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmSalonAtama.resources
+C:\Users\meden\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmSalonKayit.resources
+C:\Users\meden\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmYonetmenKayitt.resources
+C:\Users\meden\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmYonetmenListesi.resources
+C:\Users\meden\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.OyuncuListeAraci.resources
+C:\Users\meden\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.OyuncuListesi.resources
+C:\Users\meden\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.Properties.Resources.resources
+C:\Users\meden\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.SalonListesi.resources
+C:\Users\meden\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.YonetmenListesi.resources
+C:\Users\meden\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.YönetmenListeAraci.resources
+C:\Users\meden\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.GenerateResource.cache
+C:\Users\meden\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.CoreCompileInputs.cache
+C:\Users\meden\Desktop\Sinemasyon V_6\proje_v5\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.Up2Date
+C:\Users\meden\Desktop\Sinemasyon\Sinemasyon\bin\Debug\Sinemasyon.exe.config
+C:\Users\meden\Desktop\Sinemasyon\Sinemasyon\bin\Debug\Sinemasyon.exe
+C:\Users\meden\Desktop\Sinemasyon\Sinemasyon\bin\Debug\Sinemasyon.pdb
+C:\Users\meden\Desktop\Sinemasyon\Sinemasyon\bin\Debug\ReaLTaiizor.dll
+C:\Users\meden\Desktop\Sinemasyon\Sinemasyon\bin\Debug\ReaLTaiizor.xml
+C:\Users\meden\Desktop\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.AssemblyReference.cache
+C:\Users\meden\Desktop\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FilmListesi.resources
+C:\Users\meden\Desktop\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmAcilis.resources
+C:\Users\meden\Desktop\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmAnasayfa.resources
+C:\Users\meden\Desktop\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmBiletDetay.resources
+C:\Users\meden\Desktop\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmBiletKes.resources
+C:\Users\meden\Desktop\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmBiletOlustur.resources
+C:\Users\meden\Desktop\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmBiletSorgulama.resources
+C:\Users\meden\Desktop\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmDogrulama.resources
+C:\Users\meden\Desktop\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmFilmDetay.resources
+C:\Users\meden\Desktop\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmFilmEkle.resources
+C:\Users\meden\Desktop\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmFilmListeleme.resources
+C:\Users\meden\Desktop\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmOyuncuKayit.resources
+C:\Users\meden\Desktop\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmOyuncuListesi.resources
+C:\Users\meden\Desktop\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmPersonelEkle.resources
+C:\Users\meden\Desktop\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmSalonAtama.resources
+C:\Users\meden\Desktop\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmSalonKayit.resources
+C:\Users\meden\Desktop\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmYonetmenKayitt.resources
+C:\Users\meden\Desktop\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.FrmYonetmenListesi.resources
+C:\Users\meden\Desktop\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.OyuncuListeAraci.resources
+C:\Users\meden\Desktop\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.OyuncuListesi.resources
+C:\Users\meden\Desktop\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.Properties.Resources.resources
+C:\Users\meden\Desktop\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.SalonListesi.resources
+C:\Users\meden\Desktop\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.YonetmenListesi.resources
+C:\Users\meden\Desktop\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.YönetmenListeAraci.resources
+C:\Users\meden\Desktop\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.GenerateResource.cache
+C:\Users\meden\Desktop\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.CoreCompileInputs.cache
+C:\Users\meden\Desktop\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.csproj.Up2Date
+C:\Users\meden\Desktop\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.exe
+C:\Users\meden\Desktop\Sinemasyon\Sinemasyon\obj\Debug\Sinemasyon.pdb
